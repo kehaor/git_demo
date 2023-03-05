@@ -6,5 +6,5 @@ kehaoran hello git! master text
 kehaoran hello git!
 kehaoran hello git!
 kehaoran hello git!
-kehaoran hello git! master text
-kehaoran hello git! hot-fix test
+kehaoran hello git! master text 
+kehaoran hello git!
